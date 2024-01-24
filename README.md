@@ -20,3 +20,10 @@ git add submission
 git commit -m "added submission files"
 git push
 ```
+
+# Lab3-MergeConflict
+Merge Conflict - Tutorial
+NO | FIRSTNAME   | LASTNAME    | GITHUB_PROFILE
+---| ---         | ---         | ---
+1  | William     | Mowbray     | wILLIAMmOW
+2  | Matt        | Harper      | matt-harp
